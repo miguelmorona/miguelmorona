@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Trumpet](https://trumpetproject.eu/)
 
-- 🌱 I’m currently learning **Federated Learning and cryptography**
+- 🌱 I’m currently learning **Federated Learning 🧠 and cryptography 🔐**
 
 - 👨‍💻 All of my projects are available at [https://miguelmorona.github.io/](https://miguelmorona.github.io/)
 
