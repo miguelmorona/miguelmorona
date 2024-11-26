@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **miguel.morona.minguez@gmail.com**
 
-- ⚔️ We can play chess at [Lichess](https://lichess.org/@/Usuario_139)
+- ⚔️ We can play chess at [Lichess](https://lichess.org/@/Usuario_139) ♟️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
