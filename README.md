@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **miguel.morona.minguez@gmail.com**
 
+- ⚔️ We can play chess at [Lichess](https://lichess.org/@/Usuario_139)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-morona-mínguez-740418233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel morona minguez" height="30" width="40" /></a>
