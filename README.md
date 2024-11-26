@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Miguel Morona</h1>
-<h3 align="center">A mathematician engineer from Spain</h3>
+<h1 align="center">Hi 👋, I'm Miguel Morona.</h1>
+<h3 align="center">A mathematician engineer from Spain.</h3>
 
-- 🔭 I’m currently working on [Trumpet](https://trumpetproject.eu/)
+- 🔭 I’m currently working on [Trumpet](https://trumpetproject.eu/).
 
-- 🌱 I’m currently learning **Federated Learning 🧠 and cryptography 🔐**
+- 🌱 I’m currently learning **Federated Learning 🧠 and cryptography 🔐**.
 
-- 👨‍💻 All of my projects are available at [https://miguelmorona.github.io/](https://miguelmorona.github.io/)
+- 👨‍💻 All of my projects are available at [https://miguelmorona.github.io/](https://miguelmorona.github.io/).
 
-- 💬 Ask me about **Maths 📚 and chess♟️♟️!!**
+- 💬 Ask me about **Maths 📚 and chess♟️♟️!!**.
 
-- 📫 How to reach me **miguel.morona.minguez@gmail.com**
+- 📫 How to reach me **miguel.morona.minguez@gmail.com**.
 
-- ⚔️ We can play chess at [Lichess](https://lichess.org/@/Usuario_139) ♟️
+- ⚔️ We can play chess at [Lichess](https://lichess.org/@/Usuario_139) ♟️.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
