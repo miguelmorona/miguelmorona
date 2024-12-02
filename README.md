@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Morona.</h1>
 <h3 align="center">A mathematician engineer from Spain.</h3>
 
-- 🔭 I’m currently working on [Trumpet](https://trumpetproject.eu/).
+- 🔭 I’m currently working on [University of Vigo](https://www.uvigo.gal/es) as a PhD student.
 
 - 🌱 I’m currently learning **Federated Learning 🧠 and cryptography 🔐**.
 
